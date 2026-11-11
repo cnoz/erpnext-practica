@@ -1,2 +1,2 @@
-# erpnext-praactica
+# erpnext-practica
 UTN erpnext practica
